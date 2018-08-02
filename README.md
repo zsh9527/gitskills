@@ -1,3 +1,3 @@
 # gitskills
 second test
-add something new
+add sonthing new
